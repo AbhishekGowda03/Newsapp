@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 914,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Waze gets built-in car app for the first time",
+      "description": "Google-owned Waze is getting a dedicated app for car infotainment systems. Renault is the first manufacturer to include the built-in Waze app, and it doesn’t require a smartphone.",
+      "url": "https://www.theverge.com/2022/12/6/23495989/waze-built-in-car-app-renault-partnership",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EcCos-ll4nxGtepQ7EonPOKgeeU=/0x0:1000x523/1200x628/filters:focal(500x262:501x263)/cdn.vox-cdn.com/uploads/chorus_asset/file/24267216/Renault_PR_Hero_1200x628__WithoutLockup_2x.max_1000x1000.jpg",
+      "publishedAt": "2022-12-06T10:46:39Z",
+      "content": "Waze gets built-in car app for the first time\r\nWaze gets built-in car app for the first time\r\n / Two new Renault cars will be the first to get a dedicated Waze app with real-time routing, navigation,… [+1764 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Oleksandra Gaidai, Kristina Hook",
+      "title": "Opinion: In every Ukrainian kitchen, a secret weapon against Putin",
+      "description": "This will be Ukraine's first Christmas since Russia's full-on invasion in February. And in those intervening months, Moscow has revived dark historical traditions of weaponizing food against Ukrainians going back at least a century, write Oleksandra Gaidai an…",
+      "url": "https://www.cnn.com/2022/12/06/opinions/ukraine-russia-christmas-food-holodomor-gaidai-hook/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221205125906-04-ukraine-food-weapon.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-06T09:35:08Z",
+      "content": "Editors Note: Oleksandra Gaidai is Head of Academic Programmes at the Ukrainian Institute. She is also a history lecturer at Ukraines National University of Kyiv-Mohyla Academy. Kristina Hook is a Uk… [+7827 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Biden to visit Taiwan's TSMC chip plant in Arizona, hail supply chain fixes - Reuters",
+      "description": "President Joe Biden will visit the Arizona plant of TSMC <a href=\"https://www.reuters.com/companies/2330.TW\" target=\"_blank\">(2330.TW)</a> on Tuesday as the Taiwanese chipmaker is set to more than triple its planned investment in the factory to $40 billion, a…",
+      "url": "https://www.reuters.com/technology/biden-visit-taiwans-tsmc-chip-plant-arizona-hail-supply-chain-fixes-2022-12-06/",
+      "urlToImage": "https://www.reuters.com/resizer/6SXDhsWEYY-v7PPtFgJacRxnoEA=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4Q6ZD7JJHVN2FKOS5HMJ3YMJNI.jpg",
+      "publishedAt": "2022-12-06T10:05:00Z",
+      "content": "WASHINGTON, Dec 6 (Reuters) - President Joe Biden will visit the Arizona plant of TSMC (2330.TW) on Tuesday as the Taiwanese chipmaker is set to more than triple its planned investment in the factory… [+3100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Samuel Gibbs Consumer technology editor",
+      "title": "Apple expands DIY iPhone and Mac repairs to UK and Europe",
+      "description": "Online service will offer tools and sell screens, batteries and camera parts for some models released since 2020Those brave enough to attempt to fix their own iPhone or Mac with Apple’s tools can now do so in the UK and parts of Europe.The tech company is exp…",
+      "url": "https://www.theguardian.com/technology/2022/dec/06/apple-expands-diy-iphone-mac-repairs-uk-europe",
+      "urlToImage": "https://i.guim.co.uk/img/media/0ce35b33182023d716e9007dd65d7beb24cc9325/0_39_1960_1175/master/1960.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c03ff372f0f906b498d79423147e37df",
+      "publishedAt": "2022-12-06T09:00:07Z",
+      "content": "Those brave enough to attempt to fix their own iPhone or Mac with Apples tools can now do so in the UK and parts of Europe.\r\nThe tech company is expanding its self-repair programme to Belgium, France… [+2578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Rich Pelley",
+      "title": "‘Which bit of the turkey is this supposed to be?!’ I ate 12 Christmas dinners in 12 days – here are the best and worst!",
+      "description": "I could eat a Christmas dinner every day – and so I did, all in the name of research. But from Wetherspoon’s to Beefeater and Toby Carvery, which chain had the perfect roasties, the best brussels and the poshest pigs in blankets?When we hear Roy Wood singing …",
+      "url": "https://www.theguardian.com/food/2022/dec/06/which-bit-of-the-turkey-is-this-supposed-to-be-i-ate-12-christmas-dinners-in-12-days-here-are-the-best-and-worst",
+      "urlToImage": "https://i.guim.co.uk/img/media/d8073fe13bed05cfbcbe7b87a6356e2d1d89660e/0_447_7218_4331/master/7218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e15ded3bfd5990bbf974e5af391a6c2",
+      "publishedAt": "2022-12-06T06:00:03Z",
+      "content": "When we hear Roy Wood singing about how he wishes it could be Christmas every day, most of us dont think of disappointing presents, endless ads for the DFS Boxing Day sale or passing out, sherry in h… [+11505 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Launches Self Service Repair Program in Europe",
+      "description": "Apple today announced it has launched its self-service repair program in Europe, extending the program beyond the United States for the first time.\n\n\n\n\n\nCustomers in Belgium, France, Germany, Italy, Poland, Spain, Sweden, and the UK can now purchase genuine A…",
+      "url": "https://www.macrumors.com/2022/12/06/apple-self-service-repair-europe/",
+      "urlToImage": "https://images.macrumors.com/t/RfWoaF5wZx0e7761rGJY2EWPbnk=/1600x/article-new/2022/12/Apple-EU-Self-Service-repair-iPhone_big.jpg.large_.jpg",
+      "publishedAt": "2022-12-06T09:11:18Z",
+      "content": "Apple today announced it has launched its self-service repair program in Europe, extending the program beyond the United States for the first time.\r\nCustomers in Belgium, France, Germany, Italy, Pola… [+1649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "HomePod Mini Coming to Denmark in the Spring, Says Apple",
+      "description": "After publishing a series of press releases today announcing HomePod mini availability in several additional countries later this month, Apple has updated its Danish regional store to indicate the smart speaker will launch in Denmark in spring 2023, priced at…",
+      "url": "https://www.macrumors.com/2022/12/06/homepod-mini-launching-denmark-spring-2023/",
+      "urlToImage": "https://images.macrumors.com/t/kQ0rks2mmX--3lnU0mUhIOht5Hc=/2158x/article-new/2021/10/homepod-mini-five-colors.jpg",
+      "publishedAt": "2022-12-06T11:58:55Z",
+      "content": "After publishing a series of press releases today announcing HomePod mini availability in several additional countries later this month, Apple has updated its Danish regional store to indicate the sm… [+967 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "Apple Illegally Interrogated and Coerced Employees Trying to Unionize in Atlanta, Says U.S. Labor Board",
+      "description": "Apple violated federal law by holding mandatory anti-union meetings and interrogating and coercing employees at an Atlanta retail location, according a ruling from the National Labor Relations Board (NLRB) that was shared by Bloomberg.\n\n\n\n\n\nBack in May, emplo…",
+      "url": "https://www.macrumors.com/2022/12/05/apple-atlanta-illegal-anti-union-tactics/",
+      "urlToImage": "https://images.macrumors.com/t/PWjQRh7jF7Dh2d6ruUWdXWcEtQ4=/2000x/article-new/2022/12/atlanta-apple-store.jpg",
+      "publishedAt": "2022-12-06T01:03:24Z",
+      "content": "Apple violated federal law by holding mandatory anti-union meetings and interrogating and coercing employees at an Atlanta retail location, according a ruling from the National Labor Relations Board … [+1154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "HomePod Mini Launches in Finland, Norway, and Sweden on December 13",
+      "description": "The HomePod mini will be available in Finland, Norway, and Sweden from Tuesday, December 13, Apple has announced via press releases.\n\n\n\n\n\nPriced at 1,249 Norwegian Krone/Swedish Krone and 109 euros, the ‌HomePod mini‌ will be available in white, blue, orange,…",
+      "url": "https://www.macrumors.com/2022/12/06/homepod-mini-launches-finland-norway-sweden-dec-13/",
+      "urlToImage": "https://images.macrumors.com/t/CiePHsiXY2II5ku8MYIiSojKTWk=/1600x/article-new/2021/11/homepod-mini-color-bars.jpg",
+      "publishedAt": "2022-12-06T09:05:05Z",
+      "content": "The HomePod mini will be available in Finland, Norway, and Sweden from Tuesday, December 13, Apple has announced via press releases.\r\nPriced at 1,249 Norwegian Krone/Swedish Krone and 109 euros, the … [+640 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Nasha Smith)",
+      "title": "I quit my healthcare job to become a chef after struggling with my mental health. I'm less stressed and love my work — and have even catered for the NBA.",
+      "description": "Lauren Gillon started cooking for fun to help with her anxiety. After winning cooking contests, she decided to work for a Michelin-starred chef.",
+      "url": "https://www.businessinsider.com/quit-job-health-administration-become-chef-mental-health-2022-12",
+      "urlToImage": "https://i.insider.com/638e26472cd2de0018d02869?width=1200&format=jpeg",
+      "publishedAt": "2022-12-06T12:00:00Z",
+      "content": "This as-told-to essay is based on a conversation with Lauren Gillon, a 27-year-old line cook. It has been edited for length and clarity.\r\nI've always had anxiety. One of the things that triggered it … [+6732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Dean Takahashi",
+      "title": "Taiwan’s TSMC will make 3-nanometer chips in $12B factory in Arizona",
+      "description": "Check out the on-demand sessions from the Low-Code/No-Code Summit to learn how to successfully innovate and achieve efficiency by upskilling and scaling citizen developers. Watch now. Taiwanese chipmaker TSMC announced with President Joe Biden that it will bu…",
+      "url": "https://venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2019/07/tsmc-e1605303213438.jpg?w=1200&strip=all",
+      "publishedAt": "2022-12-06T10:00:00Z",
+      "content": "Check out the on-demand sessions from the Low-Code/No-Code Summit to learn how to successfully innovate and achieve efficiency by upskilling and scaling citizen developers. Watch now.\r\nTaiwanese chip… [+1379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Thom Dunn",
+      "title": "How Woody Guthrie's second wife changed modern dance and mental healthcare",
+      "description": "About a Girl is a podcast about women from history who have largely overshadowed by the more famous musicians in their life. I had the privilege of scripting the latest episode, which tells the story of Marjorie Mazia, who was the second wife of Woody Guthrie…",
+      "url": "https://boingboing.net/2022/12/06/how-woody-guthries-second-wife-changed-modern-dance-and-mental-healthcare.html",
+      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/WoodyandMarjorieGuthrie_preview.jpeg?fit=1200%2C675&ssl=1",
+      "publishedAt": "2022-12-06T12:30:11Z",
+      "content": "About a Girl is a podcast about women from history who have largely overshadowed by the more famous musicians in their life. I had the privilege of scripting the latest episode, which tells the story… [+1677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Ricardo Aguilar",
+      "title": "Si vives en España y tienes un iPhone o Mac, ya puedes arreglarlo en casa con las piezas originales de Apple",
+      "description": "Apple acaba de anunciar en España el servicio de autorreparación. Mediante el mismo, los usuarios podrán arreglar su iPhone en su propia casa, con piezas originales e incluso los kits de herramientas de Apple. Desde un cristal roto hasta una batería que no da…",
+      "url": "https://www.xataka.com/componentes/vives-espana-tienes-iphone-mac-puedes-arreglarlo-casa-piezas-originales-apple",
+      "urlToImage": "https://i.blogs.es/cf53ce/iphone/840_560.jpeg",
+      "publishedAt": "2022-12-06T09:01:56Z",
+      "content": "Apple acaba de anunciar en España el servicio de autorreparación. Mediante el mismo, los usuarios podrán arreglar su iPhone en su propia casa, con piezas originales e incluso los kits de herramientas… [+1617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Ricardo Aguilar",
+      "title": "Ahora cantos planos, ahora redondeados. Apple no tiene claro qué hacer con el iPhone 15, según rumores",
+      "description": "Aún queda bastante para que se presenten los iPhone 15, pero los rumores empiezan a sonar cada vez con más fuerza. Uno de los grandes cambios que introdujo Apple con la llegada de los iPhone 12 fue el regreso a los bordes planos, decisión considerada por algu…",
+      "url": "https://www.xataka.com/moviles/ahora-cantos-planos-ahora-redondeados-apple-no-tiene-claro-que-hacer-iphone-15-rumores",
+      "urlToImage": "https://i.blogs.es/6c670f/iphone/840_560.jpeg",
+      "publishedAt": "2022-12-06T12:31:59Z",
+      "content": "Aún queda bastante para que se presenten los iPhone 15, pero los rumores empiezan a sonar cada vez con más fuerza. Uno de los grandes cambios que introdujo Apple con la llegada de los iPhone 12 fue e… [+1975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Ricardo Aguilar",
+      "title": "Cuatro años después, las videollamadas de WhatsApp reciben el modo PiP en iOS: podrás usar otras apps mientras llamas",
+      "description": "Cuatro años después de su llegada a Android, el modo PiP (Picture in Picture) empieza a llegar a las videollamadas de WhatsApp para el iPhone. Como es habitual, lo hace primero para los usuarios beta, aunque en las próximas semanas podremos empezar a disfruta…",
+      "url": "https://www.xataka.com/aplicaciones/cuatro-anos-despues-videollamadas-whatsapp-reciben-modo-pip-podras-usar-otras-apps-llamas",
+      "urlToImage": "https://i.blogs.es/410b48/whatsapp/840_560.jpeg",
+      "publishedAt": "2022-12-06T09:31:55Z",
+      "content": "Cuatro años después de su llegada a Android, el modo PiP (Picture in Picture) empieza a llegar a las videollamadas de WhatsApp para el iPhone. Como es habitual, lo hace primero para los usuarios beta… [+1607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Leo Becker",
+      "title": "Notfallwarnung DE-Alert auf iPhones: Das müssen Sie bei Cell Broadcast beachten",
+      "description": "Am 8.12. sollen die meisten iPhones in Deutschland ein lautes Alarmsignal ausgeben. Fragen und Antworten zu DE-Alert auf Apple-Geräten.",
+      "url": "https://www.heise.de/news/Notfallwarnung-DE-Alert-auf-iPhones-Das-muessen-Sie-bei-Cell-Broadcast-beachten-7366874.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/5/8/8/7/1/shutterstock_1512573812-18beec45c24b1a74.jpg",
+      "publishedAt": "2022-12-06T04:00:00Z",
+      "content": "In Deutschland können künftig Katastrophen- und Gefahrenwarnungen über \"Cell Broadcast\" verbreitet werden, der Dienst wird \"DE-Alert\" genannt. Ins Mobilfunknetz eingebuchte Handys sollen so automatis… [+5069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Daniel Herbig",
+      "title": "Microsoft-Tochter: QA-Tester bei Zenimax wollen Gewerkschaft gründen",
+      "description": "Bei Zenimax könnte sich die größte Videospiel-Gewerkschaft der USA formen. Dass Microsoft dem nicht widerspricht, hängt auch mit Activision Blizzard zusammen.",
+      "url": "https://www.heise.de/news/Microsoft-Tochter-QA-Tester-bei-Zenimax-wollen-Gewerkschaft-gruenden-7367476.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/5/9/1/8/8/shutterstock_286021352-87bed555921c39da.jpg",
+      "publishedAt": "2022-12-06T09:58:00Z",
+      "content": "QA-Tester bei der Microsoft-Tochter Zenimax möchten eine Mitarbeiterorganisation gründen. Eine Mehrheit der Angestellten in der Qualitätssicherung habe sich für den Schritt entschieden, teilte ZeniMa… [+1763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Apple Self Service Repair launches in UK, Germany, and six other countries",
+      "description": "The Apple Self Service Repair program has now launched in eight more countries, following the initial US-only debut back in April.\nThe program lets customers access repair manuals, purchase genuine Apple parts, and rent the tools needed to carry out DIY repai…",
+      "url": "https://9to5mac.com/2022/12/06/apple-self-service-repair-europe/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Apple-Self-Service-Repair.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-12-06T12:12:58Z",
+      "content": "The Apple Self Service Repair program has now launched in eight more countries, following the initial US-only debut back in April.\r\nThe program lets customers access repair manuals, purchase genuine … [+2614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Zachary Kew-Denniss",
+      "title": "How to find and add free books on your Amazon Kindle e-reader",
+      "description": "After Amazon revolutionized the way we buy books online, it created the Kindle to make reading more convenient. Here's how to find free ebooks online.",
+      "url": "https://www.androidpolice.com/how-to-find-read-free-books-kindle/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/12/Kindle-Paperwhite-SE-review-bump-article1.jpg",
+      "publishedAt": "2022-12-06T11:04:14Z",
+      "content": "The Amazon Kindle is often near the top of the list for the best new e-readers. Kindle e-readers are easy to use and can access a massive library of Kindle books. Most mainstream publishers are avail… [+7276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Amber Neely)",
+      "title": "Apple engaged in illegal anti-union tactics, finds labor board",
+      "description": "The National Labor Relations Board has evidence that Apple used anti-union tactics to try to stop unionization efforts, including interrogating and coercing employees.Apple Cumberland MallApple has long been suspected of engaging in anti-union tactics, especi…",
+      "url": "https://appleinsider.com/articles/22/12/06/apple-engaged-in-illegal-anti-union-tactics-finds-labor-board",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/48017-93798-Apple-Cumberland-Mall-xl.jpg",
+      "publishedAt": "2022-12-06T01:46:32Z",
+      "content": "Apple Cumberland Mall\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe National Labor Relations Board has evidence that Apple used anti-union tactics t… [+1112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple's Self Service Repair launches in Europe",
+      "description": "Apple's Self Service Repair is now available in eight European countries, with tools for common repairs on the iPhone 12 and iPhone 13 ranges, plus Apple Silicon Macs.First launched in April 2022 in the US for iPhones, certain Macs were added in August 2022. …",
+      "url": "https://appleinsider.com/articles/22/12/06/apples-self-service-repair-launches-in-europe",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51782-102624-000-lead-Self-Service-Repair-xl.jpg",
+      "publishedAt": "2022-12-06T10:43:57Z",
+      "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple's Self Service Repair is now available in eight European countries, with tools for common repairs on … [+2006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "FCC commissioner urges DOJ to investigate Apple and TikTok",
+      "description": "The FCC's Brendan Carr is continuing to press for TikTok to be removed from the App Store, and his latest tactic is writing to the Department of Justice to try to inspire antitrust actions.TikTok on a smartphoneCarr, the Federal Communications Commission's to…",
+      "url": "https://appleinsider.com/articles/22/12/06/fcc-commissioner-urges-doj-to-investigate-apple-and-tiktok",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51164-101096-49286-96263-TikTok-Lead-Image-xl-xl.jpg",
+      "publishedAt": "2022-12-06T12:18:35Z",
+      "content": "TikTok on a smartphone\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe FCC's Brendan Carr is continuing to press for TikTok to be removed from the App… [+1935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Malcolm Owen)",
+      "title": "'Inadequate' AirTag's anti-stalking features lead to lawsuit",
+      "description": "Apple's AirTag is at the center of a new lawsuit claiming the tracking device can be too easily used by stalkers to monitor the movements of victims.AirTag on a keyring. Filed on Monday at a federal court in San Francisco, two women claim that Apple's AirTag …",
+      "url": "https://appleinsider.com/articles/22/12/06/inadequate-airtags-anti-stalking-features-lead-to-lawsuit",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51784-102625-48424-94481-46837-91316-46682-91025-44271-85982-AirTags-xl-xl-xl-xl-xl.jpg",
+      "publishedAt": "2022-12-06T12:11:10Z",
+      "content": "AirTag on a keyring. \r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple's AirTag is at the center of a new lawsuit claiming the tracking device can be… [+2024 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "'Slow Horses' nominated for UK Writers' Guild award",
+      "description": "Hit thriller series \"Slow Horses\" becomes the first Apple TV+ show to be nominated for an award from the Writers' Guild of Great Britain (WGGB).Gary Oldman in \"Slow Horses\"The UK's Writers' Guild Award nominations have been announced, with 42 entries competin…",
+      "url": "https://appleinsider.com/articles/22/12/06/slow-horses-nominated-for-uk-writers-guild-award",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/46854-91346-000-lead-Slow-Horses-xl.jpg",
+      "publishedAt": "2022-12-06T11:01:56Z",
+      "content": "Gary Oldman in \"Slow Horses\"\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nHit thriller series \"Slow Horses\" becomes the first Apple TV+ show to be nomi… [+1157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Christine McKee)",
+      "title": "Save $200 on Apple's M2 MacBook Air with 16GB RAM, 1TB SSD",
+      "description": "Readers this week can save $200 on Apple's high-end MacBook Air, with units in stock plus free expedited delivery.Save $200 on this MacBook Air.The $200 exclusive discount on Apple's 2022 MacBook Air is courtesy of B&H Photo. The high-end M2 configuration fea…",
+      "url": "https://appleinsider.com/articles/22/12/06/save-200-on-apples-m2-macbook-air-with-16gb-ram-1tb-ssd",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51772-102606-macbook-air-2022-m2-purple-xl.jpg",
+      "publishedAt": "2022-12-06T00:40:07Z",
+      "content": "Save $200 on this MacBook Air.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nReaders this week can save $200 on Apple's high-end MacBook Air, with units… [+1764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "はらいさん",
+      "title": "Apple Watch Ultraをダイブコンピューターに変える「Oceanic +」アプリがリリース",
+      "description": "Apple Watch Ultraにダイビングコンピューター機能を付加するアプリ「Oceanic＋」が公開。",
+      "url": "https://www.gizmodo.jp/2022/12/oceanic-plus-for-apple-watch-ultra.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2022/12/02/3E1B52FD-CFCE-42B2-8D94-69E7095CAFEC.jpeg?w=1280&h=630&f=jpg",
+      "publishedAt": "2022-12-06T03:00:00Z",
+      "content": "Apple Watch UltraOceanic\r\n1Apple Watch UltraOceanic +Apple Watch\r\nImage: Apple\r\nApple Watch Ultra2,00040mOceanic +\r\nImage: Apple\r\nApple Watch Ultra\r\nApple Watch Ultra7mm\r\nImage: Apple\r\nOceanic +1,150… [+31 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "satomi",
+      "title": "「いずれ日本は消滅する」と言ってたイーロン・マスクが「Twitterは日本中心」と言い出す",
+      "description": "今年5月に「このまま出生率低下に歯止めがかからなけけば日本はいずれ消滅する」と予言したイーロン・マスクTwitter CEOが11月21日に開かれた買収後初の全社会議で「Twitterは米国中心に見えるが日本中心だ」と語り、急に日本を目指す気になって話題です。",
+      "url": "https://www.gizmodo.jp/2022/12/eron-twitter-japan.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2022/12/01/20221130TwitterJapan.png?w=1280&h=630&f=jpg",
+      "publishedAt": "2022-12-06T09:00:00Z",
+      "content": "5Twitter CEO1121Twitter\r\n311Twitter\r\nTwitter\r\nTwitter247%!(EXTRA string= )\r\nTwitter10017690258953\r\nImage: Statistica\r\nTwitterTwitter\r\nTwitter75.1\r\n9\r\n8Twitter75.1\r\nTwitter\r\nImage: \r\n56.48The Harris P… [+210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.jp"
+      },
+      "author": "山科拓郎",
+      "title": "デバイス4台を同時充電できる7in1充電スタンド「Zikko7in1」を試してみた",
+      "description": "7in1充電スタンド「Zikko7in1」があれば4台のデバイスを同時充電可能に。スマホやイヤホンなど3台をワイヤレス充電できます。折り畳んで持ち運べるので旅行に持っていく充電器はこれ1台。LEDクロックやアラーム、ナイトライト、読書灯といったベッドルームを快適にする機能が搭載されています。",
+      "url": "https://www.lifehacker.jp/article/machi-ya-zikko-review/",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2022/12/02/Zikkoreview00.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2022-12-06T00:45:00Z",
+      "content": "etc. \r\nPhoto: \r\nType-C\r\nZikko7in1314LED7in1\r\nPhoto: \r\nZikko7in1\r\nUSBLitghtningType-CMicro-USBApple Watch\r\nPhoto: \r\nZikko7in1Type-C\r\n192g\r\nZikko7in1Qi\r\nPhoto: \r\niPhone 13 mini15W\r\nPhoto: \r\nApple Watch… [+225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Sarang Sheth",
+      "title": "This Tesla Cyberbike concept was designed entirely by Artificial Intelligence",
+      "description": "This Tesla Cyberbike concept was designed entirely by Artificial IntelligenceWhile the Cybertruck is still a conceptual vehicle, we thought we’d up the stakes and imagine what a Tesla Cyberbike would look like! Looking sort...",
+      "url": "https://www.yankodesign.com/2022/12/05/this-tesla-cyberbike-concept-was-designed-entirely-by-artificial-intelligence/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2022/12/auto-draft/tesla_cyberbike_concept_1.jpg",
+      "publishedAt": "2022-12-06T00:30:40Z",
+      "content": "While the Cybertruck is still a conceptual vehicle, we thought we’d up the stakes and imagine what a Tesla Cyberbike would look like!\r\nLooking sort of like the Tesla Cyberquad’s meaner older sibling,… [+4794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dylan Martin",
+      "title": "Woman fakes pregnancy to smuggle hundreds of CPUs, iPhones into China",
+      "description": "Now that's what we call Intel Inside\nIf you think you can fool customs officials into believing you are pregnant and not, in fact, smuggling hundreds of Intel processors and iPhones in a prosthetic strapped to your belly, think again.…",
+      "url": "https://www.theregister.com/2022/12/06/woman_pregnancy_smuggle_intel_iphone/",
+      "urlToImage": "https://regmedia.co.uk/2022/12/06/shutterstock_pregnant_inside_smaller.jpg",
+      "publishedAt": "2022-12-06T08:30:08Z",
+      "content": "If you think you can fool customs officials into believing you are pregnant and not, in fact, smuggling hundreds of Intel processors and iPhones in a prosthetic strapped to your belly, think again.\r\n… [+2673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Javier Lacort",
+      "title": "Apple lanza las reparaciones de autoservicio en España: piezas originales para que tú mismo repares tu iPhone o tu Mac",
+      "description": "Apple anunció en 2021 que durante este año lanzaría un programa de reparaciones domésticas: la venta directa de piezas oficiales para algunos de sus dispositivos, de cara a que cualquiera pudiese reemplazar una pantalla cuarteada, una batería que ya no es la …",
+      "url": "https://www.applesfera.com/apple-1/apple-lanza-reparaciones-autoservicio-espana-piezas-originales-tu-repares-tu-iphone-tu-mac",
+      "urlToImage": "https://i.blogs.es/d8d879/espana/840_560.jpeg",
+      "publishedAt": "2022-12-06T09:01:56Z",
+      "content": "Apple anunció en 2021 que durante este año lanzaría un programa de reparaciones domésticas: la venta directa de piezas oficiales para algunos de sus dispositivos, de cara a que cualquiera pudiese ree… [+2495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "RPB",
+      "title": "Cette petite île aide la planète entière à lutter contre le spam téléphonique",
+      "description": "Une enquête BBC révèle pourquoi Taïwan s'est retrouvé aux avant-postes de la lutte contre le spam téléphonique... dans le monde entier.",
+      "url": "https://www.presse-citron.net/?p=528899",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2021/10/pexels-ketut-subiyanto-4962587.jpg",
+      "publishedAt": "2022-12-06T06:30:08Z",
+      "content": "A en croire une enquête BBC, Taïwan est réellement aux avant-postes de la lutte mondiale contre le spam téléphonique. Beaucoup de nouvelles arnaques font leurs débuts sur l’île avant de se propager e… [+3381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XDA Developers"
+      },
+      "author": "Pranob Mehrotra",
+      "title": "Apple's Self Service Repair program makes its way to the U.K. and Europe",
+      "description": "Users in eight more countries can now repair their iPhones and Apple silicon Macs at home.",
+      "url": "https://www.xda-developers.com/apple-extends-its-self-service-repair-program/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/12/person-repairing-an-iphone-using-apple-s-self-service-repair-kit.jpg",
+      "publishedAt": "2022-12-06T11:27:48Z",
+      "content": "After announcing plans to give customers the option to repair some of their devices at home last year, Apple launched its Self Service Repair program in the U.S. this April. The program initially cov… [+1727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "info@hypebeast.com (Hypebeast)",
+      "title": "You Can Now Shop JW Anderson's Daring SS23 and Resort 2023 Collections",
+      "description": "Jonathan Anderson's eponymous label -- JW Anderson -- took the fashion month by storm with his men's Spring/Summer 2023 and women's Resort 2023 runway show during Milan Fashion Week, and now the collections from each season have been released.With a reconfigu…",
+      "url": "https://hypebeast.com/2022/12/jw-anderson-spring-summer-2023-mens-resort-23-womens-collections-release",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F12%2Fjw-anderson-spring-summer-2023-mens-resort-23-womens-collections-release-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2022-12-06T10:53:15Z",
+      "content": "Jonathan Anderson‘s eponymous label — JW Anderson — took the fashion month by storm with his men’s Spring/Summer 2023 and women’s Resort 2023 runway show during Milan Fashion Week, and now the collec… [+1685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "info@hypebeast.com (Hypebeast)",
+      "title": "Take a Look Inside the \"SLAM JAM - NIKE AIR FORCE 1\" Exhibition",
+      "description": "Slam Jam has announced a new exhibition celebrating its collaboration with Nike for the 40th anniversary of the Air Force 1. Taking at Spazio Maiocchi, a social space located in central Milan, the showcase is hosted in collaboration with design and production…",
+      "url": "https://hypebeast.com/2022/12/slam-jam-nike-exhibition-campaign-image-video-info",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F12%2Fslam-jam-nike-exhibition-campaign-image-video-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2022-12-06T11:07:26Z",
+      "content": "Slam Jam has announced a new exhibition celebrating its collaboration with Nike\r\n for the 40th anniversary of the Air Force 1. Taking at Spazio Maiocchi, a social space located in central Milan, the … [+1446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Presse-citron",
+      "title": "Protéger sans dénaturer ? On a trouvé la meilleure coque pour votre iPhone",
+      "description": "Faire ressortir le magnifique design de votre iPhone tout en le protégeant d’éventuelles chutes, voilà la promesse de ShopSystem et de ses coques premium. En ce moment, profitez d’une remise immédiate de 10% sur votre première commande.",
+      "url": "https://www.presse-citron.net/proteger-sans-denaturer-on-a-trouve-la-meilleure-coque-pour-votre-iphone/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/11/visuel-shopsystem-iphone.jpg",
+      "publishedAt": "2022-12-06T08:00:16Z",
+      "content": "Comme chaque année, Apple a présenté ses tout nouveaux iPhone 14 lors dun événement très attendu au début du mois de septembre. Quatre modèles ont été dévoilés pour que chacun y trouve son compte. Po… [+5524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Chris Smith",
+      "title": "iPhone has a mind-blowing volume control trick that you’re not using",
+      "description": "I’ve been using the iPhone for over a decade, and I’m pretty confident I know most of the tricks in the book. It’s not just …\nThe post iPhone has a mind-blowing volume control trick that you’re not using appeared first on BGR.",
+      "url": "https://bgr.com/tech/iphone-has-a-mind-blowing-volume-control-trick-that-youre-not-using/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/09/apple-iphone-14-3.jpg?quality=82&strip=all",
+      "publishedAt": "2022-12-06T11:50:00Z",
+      "content": "I’ve been using the iPhone for over a decade, and I’m pretty confident I know most of the tricks in the book. It’s not just my job description that requires me to stay on top of each iPhone and iOS r… [+2885 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "Marco Dettweiler",
+      "title": "Apple Watch Series 8 im Test",
+      "description": "Apple hat mittlerweile drei Watch-Modelle im Angebot. Die Series 8 bleibt der Standard. Die Temperaturmessung kann nicht jeder nutzen.",
+      "url": "https://www.faz.net/aktuell/technik-motor/digital/apple-watch-series-8-im-test-wann-sich-die-teurere-ultra-lohnt-18510139.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/technik-motor/2452859755/1.8512917/facebook_teaser_fplus/achtung-normal-die-apple-watch.jpg",
+      "publishedAt": "2022-12-06T09:13:38Z",
+      "content": "Es wird unübersichtlich bei Apple. Während man sich an die Modellvielfalt des iPhone mittlerweile gewöhnt hat, war es bis vor zwei Jahren mit der Apple Watch noch einfach. Jedes Jahr kam eine neue au… [+460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "heyimjoew@gmail.com (Joe Wituschek)",
+      "title": "Some publishers are struggling to grow on Apple News Plus",
+      "description": "According to new data from the Alliance for Audited Media (AAM), publisher growth is slowing on Apple's news aggregation service.",
+      "url": "https://www.imore.com/apple/some-publishers-are-struggling-to-grow-on-apple-news-plus",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dSrDLZgvLv4qSJmbbuVtLW-1200-80.jpg",
+      "publishedAt": "2022-12-06T00:39:45Z",
+      "content": "Apple News Plus appears to still be a struggle for publishers on the platform.\r\nAs reported by the Press Gazette, growth appears to be slowing on Apple News Plus, the company's news aggregation servi… [+1890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "heyimjoew@gmail.com (Joe Wituschek)",
+      "title": "St. Louis Apple Store employees blame union for organizing withdrawal",
+      "description": "Employees at a St. Louis Apple Store say the IAM is the reason for them withdrawing their unionization effort.",
+      "url": "https://www.imore.com/apple/st-louis-apple-store-employees-blame-union-for-organizing-withdrawal",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2X8EvKSgGnihcPv54t7ouk-1200-80.jpg",
+      "publishedAt": "2022-12-06T01:08:51Z",
+      "content": "Employees at an Apple Store in St. Louis, Missouri says that it is the union, not Apple, that caused the store to stop its organizing efforts.\r\nIn a statement provided to 9to5Mac, a group of employee… [+4871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+      "title": "Apple's iPhone and Mac Self Service Repair program is now live in 8 European countries",
+      "description": "Apple has expanded its Self Service Repair program to eight new European countries including the United Kingdom, France, and Germany.",
+      "url": "https://www.imore.com/apple/apples-iphone-and-mac-self-service-repair-program-is-now-live-in-8-european-countries",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dy6JLKd3ENe4bSnyw5HXS3-1200-80.jpg",
+      "publishedAt": "2022-12-06T11:03:37Z",
+      "content": "Apple has today announced the expansion of its Self Service Repair program to include eight additional European countries. The move means that customers can now take matters into their own hands and … [+1674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+      "title": "The HomePod mini comes to Sweden and Norway on December 13",
+      "description": "Swedish and Norwegian Apple fans will be able to pick up a HomePod mini of their very own starting December 13.",
+      "url": "https://www.imore.com/smart-home/homepod/the-homepod-mini-comes-to-sweden-and-norway-on-december-13",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dug6R7w8jmudaFXBTxXEfb-1200-80.jpg",
+      "publishedAt": "2022-12-06T11:24:48Z",
+      "content": "Apple has confirmed that it is bringing the HomePod mini to customers in Sweden and Norway starting December 13, 2022. The speaker will cost SEK 1,295 and NOK 1,249 respectively.\r\nArguably Apple's be… [+1675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "heyimjoew@gmail.com (Joe Wituschek)",
+      "title": "National Labor Relations Board says Apple broke the law with its anti-union efforts",
+      "description": "Apple's anti-union efforts in Atlanta were illegal according to the National Labor Relations Board.",
+      "url": "https://www.imore.com/apple/national-labor-relations-board-says-apple-broke-the-law-with-its-anti-union-efforts",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JbYd2eTx4hmDHLZ2Z6N4ZQ-1200-80.jpg",
+      "publishedAt": "2022-12-06T01:46:34Z",
+      "content": "U.S. officials are claiming that Apple broke the law with its anti-union efforts at an Apple Store in Atlanta Georgia in the United States.\r\nAs reported by Bloomberg, the National Labor Relations Boa… [+1686 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "heyimjoew@gmail.com (Joe Wituschek)",
+      "title": "Uber and Uber Eats may be close to launching support for Live Activities on the iPhone",
+      "description": "The latest update to the Uber and Uber Eats apps shows the company may be close to launching support for Live Activities on the iPhone.",
+      "url": "https://www.imore.com/ios/uber-and-uber-eats-may-be-close-to-launching-support-for-live-activities-on-the-iphone",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eMaTAqRW6JuT35Qfh3ivXM-1200-80.jpg",
+      "publishedAt": "2022-12-06T00:06:48Z",
+      "content": "A couple more major apps are close to launching support for Live Activities on the iPhone.\r\nAs spotted by MacRumors, a new update to the Uber and Uber Eats apps show that the company is closer to lau… [+1549 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iMore"
+      },
+      "author": "luke.filipowicz@futurenet.com (Luke Filipowicz)",
+      "title": "How to find and remove 'Other' files from iPhone and iPad",
+      "description": "Caches, settings preferences, saved messages, voice memos, and other stuff take up storage space on your iPhone and iPad. With a bit of patience, you can reduce the amount of space they take up on your iPhone or iPad.",
+      "url": "https://www.imore.com/how-remove-other-files-iphone-and-ipad",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7RjCHjg4BSuuTAgwnTyiaP-1200-80.jpg",
+      "publishedAt": "2022-12-06T10:04:41Z",
+      "content": "The \"Other\" category on your iPhone and iPad is where all of your caches, settings preferences, saved messages, voice memos, and… well, other data is stored. For the most part, it doesn't matter. If … [+6357 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Josh Sisco",
+      "title": "DOJ pursues unusual case of car shipping price-fixing and extortion",
+      "description": "An unsealed indictment targets organized crime with drug cartel ties in Southern Texas.",
+      "url": "https://www.politico.com/news/2022/12/06/justice-case-car-price-fixing-extortion-00072488",
+      "urlToImage": "https://static.politico.com/76/ad/93c6f2af46e08ffa9c461176290d/ransomware-gang-arrest-48454.jpg",
+      "publishedAt": "2022-12-06T06:07:54Z",
+      "content": "The case marks a rare departure for the Justice Departments antitrust division, which is typically focused on civil investigations of mergers and other alleged anticompetitive conduct, as well as whi… [+1256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Sami Fathi",
+      "title": "Apple to Obsolete All iPad Mini 3 Cellular and Wi-Fi Models in Coming Weeks",
+      "description": "Apple will label Wi-Fi-only and cellular models of the third-generation iPad mini as obsolete products in a few weeks, according to a memo sent out earlier today obtained by MacRumors.\n\n\n\n\n\nCurrently, only a specific cellular variant of the ‌iPad mini‌ 3 is m…",
+      "url": "https://www.macrumors.com/2022/12/06/ipad-mini-3-obsolete/",
+      "urlToImage": "https://images.macrumors.com/t/gMNdpTsivcvr1_GTTMj7dEyvBjk=/1600x/article-new/2013/04/ipad_mini_trademark_specimen.jpg",
+      "publishedAt": "2022-12-06T09:41:01Z",
+      "content": "Apple will label Wi-Fi-only and cellular models of the third-generation iPad mini as obsolete products in a few weeks, according to a memo sent out earlier today obtained by MacRumors.\r\nCurrently, on… [+470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Sami Fathi",
+      "title": "Apple Sued by Women After Exes Use AirTags to Stalk Them",
+      "description": "Apple is facing a lawsuit in federal court in San Francisco by two women, one of which claims her ex-boyfriend used an AirTag to track her without her consent, reports Bloomberg. \n\n\n\n\n\nSince their release in April 2021, the use of Apple's AirTags has raised c…",
+      "url": "https://www.macrumors.com/2022/12/06/women-sue-apple-over-airtags/",
+      "urlToImage": "https://images.macrumors.com/t/f4mKYwuz7R1KkwbfPTeRX3fZjGg=/2000x/article-new/2021/05/airtag-1.jpg",
+      "publishedAt": "2022-12-06T10:30:43Z",
+      "content": "Apple is facing a lawsuit in federal court in San Francisco by two women, one of which claims her ex-boyfriend used an AirTag to track her without her consent, reports Bloomberg. \r\nSince their releas… [+2063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Kevin Hiot",
+      "title": "Actualité : Nothing souhaite lancer son Phone (1) aux USA pour contrer la domination d'Apple",
+      "description": "Dans une interview accordée au site CNBC, Carl Pei a confirmé son intention de lancer le premier smartphone de Nothing aux États-Unis. Des discussions avec les opérateurs sont en cours.",
+      "url": "https://www.lesnumeriques.com/telephone-portable/nothing-souhaite-lancer-son-phone-1-aux-usa-pour-contrer-la-domination-d-apple-n200067.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/20/200067/9ff73a28-phone-1-aux-usa-maybe__1200_630__0-63-1280-735.jpeg",
+      "publishedAt": "2022-12-06T10:41:00Z",
+      "content": "Dès la présentation de Nothing, Carl Pei, son fondateur, avait précisé que le premier smartphone de son entreprise ne serait pas commercialisé aux États-Unis. Une décision difficile alors qu'il s'agi… [+1878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Louis Paillat",
+      "title": "Test Sennheiser Ambeo Soundbar Plus : la petite sœur de l’Ambeo Soundbar Max se montre à la hauteur",
+      "description": "Tout aussi ambitieuse que sa grande sœur l’Ambeo Soundbar Max, l’Ambeo Soundbar Plus cherche à offrir une expérience exceptionnelle dans un format plus compact et à un tarif plus raisonnable.",
+      "url": "https://www.lesnumeriques.com/barre-de-son/sennheiser-ambeo-soundbar-plus-p70753/test.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/test/19/199531/7a522f2e-sennheiser-ambeo-plus-une-petite-soeur-digne-de-l-ambeo-soundbar-max__1200_630__0-426-3000-2001_wtmk.jpeg",
+      "publishedAt": "2022-12-06T11:30:00Z",
+      "content": "Tout aussi ambitieuse que sa grande sur lAmbeo Soundbar Max, lAmbeo Soundbar Plus cherche à offrir une expérience exceptionnelle dans un format plus compact et à un tarif plus raisonnable.\r\nDans le b… [+11061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Iván Linares",
+      "title": "Ya puedes reparar tu iPhone en casa... si te atreves: Apple abre el servicio de autorreparación en España",
+      "description": "¿Tienes un dispositivo de Apple averiado y te ves con ganas de repararlo por tu cuenta y riesgo? Pues ahora puedes hacerlo con las herramientas y piezas originales de la propia Apple: el servicio de autorreparación llega a Europa tras estar disponible en Esta…",
+      "url": "https://www.xatakamovil.com/apple/puedes-reparar-tu-iphone-casa-te-atreves-apple-abre-servicio-autorreparacion-espana",
+      "urlToImage": "https://i.blogs.es/fc4aff/reparar-iphone-portada/840_560.jpg",
+      "publishedAt": "2022-12-06T09:01:56Z",
+      "content": "¿Tienes un dispositivo de Apple averiado y te ves con ganas de repararlo por tu cuenta y riesgo? Pues ahora puedes hacerlo con las herramientas y piezas originales de la propia Apple: el servicio de … [+2855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Apple startet Self-Service-Reparatur in Europa",
+      "description": "Apple hat angekündigt, dass die Self-Service-Reparatur ab sofort in acht europäischen Ländern (Belgien, Deutschland, Frankreich, Großbritannien, Italien, Polen, Schweden und Spanien) verfügbar ist und Reparaturanleitungen sowie Originalteile und Werkzeuge von…",
+      "url": "https://stadt-bremerhaven.de/apple-startet-self-service-reparatur-in-europa/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2021/12/Apple-Logo-Shop.jpg",
+      "publishedAt": "2022-12-06T09:08:10Z",
+      "content": "Apple hat angekündigt, dass die Self-Service-Reparatur ab sofort in acht europäischen Ländern (Belgien, Deutschland, Frankreich, Großbritannien, Italien, Polen, Schweden und Spanien) verfügbar ist un… [+1088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Olli",
+      "title": "Apple könnte Teile der iPad-Produktion nach Indien verlagern",
+      "description": "Apple hat gerade einige Probleme bei Foxconn in China. Die Mitarbeiter werden nicht gut behandelt und es gab diverse Eskalationen in der jüngsten Vergangenheit, die auch mit COVID-Problemen in Verbindung stehen. Auch gibt es seit langem Probleme zwischen Chin…",
+      "url": "https://stadt-bremerhaven.de/apple-koennte-teile-der-ipad-produktion-nach-indien-verlagern/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/10/Apple-iPad-10th-gen-hero-221018_Full-Bleed-Image.jpg.medium_2x_.jpg",
+      "publishedAt": "2022-12-06T06:00:53Z",
+      "content": "Apple hat gerade einige Probleme bei Foxconn in China. Die Mitarbeiter werden nicht gut behandelt und es gab diverse Eskalationen in der jüngsten Vergangenheit, die auch mit COVID-Problemen in Verbin… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "André Westphal",
+      "title": "Microsoft will unbedingt an der Übernahme von Activision Blizzard festhalten",
+      "description": "Microsofts Präsident, Brad Smith, hat in einem Artikel für The Wall Street Journal noch einmal über die Übernahme von Activision Blizzard gesprochen, welche dem Unternehmen derzeit keine Ruhe lässt. Dabei kommt er auch auf die Gerüchte zu sprechen, dass die..…",
+      "url": "https://stadt-bremerhaven.de/microsoft-will-unbedingt-an-der-uebernahme-von-activision-blizzard-festhalten/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/01/header-jan18-1_.jpg",
+      "publishedAt": "2022-12-06T08:39:24Z",
+      "content": "Microsofts Präsident, Brad Smith, hat in einem Artikel für The Wall Street Journal noch einmal über die Übernahme von Activision Blizzard gesprochen, welche dem Unternehmen derzeit keine Ruhe lässt. … [+2056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Documents: iOS-App bekommt neue Funktionen",
+      "description": "Documents, die iOS- und iPad-App zur Verwaltung von Dateien auf dem iPhone (und auf Servern in der Cloud oder dem eigenen NAS), war hier im Blog schon des Öfteren Thema (alleine schon aufgrund der Möglichkeiten in Verbindung mit dem kostenlosen...Zum Beitrag:…",
+      "url": "https://stadt-bremerhaven.de/documents-ios-app-bekommt-neue-funktionen/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/12/doc-share_.jpg",
+      "publishedAt": "2022-12-06T05:30:32Z",
+      "content": "Documents, die iOS- und iPad-App zur Verwaltung von Dateien auf dem iPhone (und auf Servern in der Cloud oder dem eigenen NAS), war hier im Blog schon des Öfteren Thema (alleine schon aufgrund der Mö… [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Brian Welk",
+      "title": "HBO Max Is Back on Amazon Prime Video",
+      "description": "The streamer lost 5 million subscribers when HBO Max was pulled from Prime Video and other services last year.",
+      "url": "https://www.indiewire.com/2022/12/hbo-max-amazon-prime-video-new-deal-1234788653/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2022/09/wil-johnson-matt-smith-theo-nate.jpg?w=780",
+      "publishedAt": "2022-12-06T12:00:10Z",
+      "content": "Though it was an entire parent company earlier, it was only a little over a year ago that HBO Max was pulled from Amazon Prime Video. But on Tuesday, the service’s new regime, Warner Bros. Discovery,… [+2780 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wwwhatsnew.com"
+      },
+      "author": "Juan Diego Polo",
+      "title": "Dónde comprar componentes de iPhone y Mac para repararlo en casa",
+      "description": "Si estás pensando en reparar tu iPhone o tu MacBook, y vives en Europa, llegan grandes noticias, ya que el programa de reparación de autoservicio de Apple ha abierto sus puertas en el continente. De momento solo está disponible en España, Bélgica, Francia, Al…",
+      "url": "https://wwwhatsnew.com/2022/12/06/donde-comprar-componentes-de-iphone-y-mac-para-repararlo-en-casa/",
+      "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2022/12/piezas-apple.jpg",
+      "publishedAt": "2022-12-06T10:08:49Z",
+      "content": "Si estás pensando en reparar tu iPhone o tu MacBook, y vives en Europa, llegan grandes noticias, ya que el programa de reparación de autoservicio de Apple ha abierto sus puertas en el continente.\r\nDe… [+1597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wwwhatsnew.com"
+      },
+      "author": "Fco. José Hidalgo",
+      "title": "Nothing Tech trabaja para lanzar un móvil inteligente en los Estados Unidos",
+      "description": "No cabe duda de que el Nothing Phone (1) es un modelo de móvil inteligente de lo más singular, gracias a su combinación de luces led traseras en forma de glyfos, dejando atrás las típicas luces de notificación habituales de la gran mayoría de modelos. Nothing…",
+      "url": "https://wwwhatsnew.com/2022/12/06/nothing-tech-trabaja-para-lanzar-un-movil-inteligente-en-los-estados-unidos/",
+      "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2022/12/Nothing-Phone-1.jpg",
+      "publishedAt": "2022-12-06T01:00:48Z",
+      "content": "No cabe duda de que el Nothing Phone (1) es un modelo de móvil inteligente de lo más singular, gracias a su combinación de luces led traseras en forma de glyfos, dejando atrás las típicas luces de no… [+2050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.ru"
+      },
+      "author": "Михаил Вольных",
+      "title": "Подкаст «Время есть»: чем различаются виды птицы, как полюбить утку по-пекински и не ошибиться с курицей в продуктовом",
+      "description": "Разбираемся, можно ли спутать мясо разной птицы, вредна ли курица из фастфуда. А также готовим филе с пряным шоколадным соусом.",
+      "url": "https://lifehacker.ru/podkast-vremya-est-10/",
+      "urlToImage": "https://cdn.lifehacker.ru/wp-content/uploads/2022/10/LX-sajt-LX_1664878016-1280x640.png",
+      "publishedAt": "2022-12-06T11:30:16Z",
+      "content": ": , , . , «» «» .\r\n, « » , .\r\n03:39 .\r\n06:31 .\r\n11:20 , .\r\n15:21 .\r\n23:15 .\r\n25:32 : .\r\n30:56 « »: , . .\r\n « » , : Apple Podcasts, Google Podcasts, «», «» Castbox, YouTubeSoundStream."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Srad.jp"
+      },
+      "author": "nagazou",
+      "title": "TSMC、アリゾナ新工場を4nmプロセスに切り替え",
+      "description": "TSMCは米アリゾナ州に2024年まで半導体製造工場を完成させる予定だが、この工場では当初5nmプロセスで半導体が製造される予定だった。しかし、AppleやAMD、NVIDIAからの要請により、4nmプロセスでの製造に変更されることになったという（wccftech.com、GIGAZINE）。 \n\n現在、Apple の最新チップは5nmプロセスで製造されている。今後は同社のiPhone、iPad、Mac、およびその他のAppleデバイスでは、4nmおよび3nmプロセスで製造されるチップの採用が計画されている。こう…",
+      "url": "https://srad.jp/story/22/12/05/1340248/",
+      "urlToImage": "https://srad.jp/static/topics/business_64.png",
+      "publishedAt": "2022-12-06T04:07:00Z",
+      "content": "TSMC20245nmAppleAMDNVIDIA4nmwccftech.comGIGAZINEApple 5nmiPhoneiPadMacApple4nm3nm4nm126TSMC"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Akiko Fujita",
+      "title": "How Costco keeps the peace with its employees",
+      "description": "At a time when rival retailers have struggled to address employee demands for higher wages and better benefits, Costco has managed to separate itself from...",
+      "url": "https://finance.yahoo.com/news/how-costco-keeps-the-peace-with-its-employees-124516498.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/25s69XJGSOq8VC.6DdoMHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/4e8ad0a0-74bb-11ed-bdf3-1eeff5ca48cb",
+      "publishedAt": "2022-12-06T12:45:16Z",
+      "content": "Steady membership fees and cost savings helped fuel our Costco (COST) to record membership renewal rates this year, driven in part by concerns about inflation.\r\nBut the Issaquah, Washingtonbased comp… [+5277 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Apple self-repair service comes to UK",
+      "description": "The tech giant warned that if a repair goes wrong, the device's warranty will no longer be valid.",
+      "url": "https://www.bbc.co.uk/news/technology-63866869",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8849/production/_127898843_gettyimages-1321654926.jpg",
+      "publishedAt": "2022-12-06T09:05:15Z",
+      "content": "Apple is rolling out its self-repair service to the UK and seven other European countries on Tuesday.\r\niPhone 12 and 13 users, and some Macbook owners, will be able to fix their own devices by buying… [+1851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Yordan",
+      "title": "Apple considers shift of iPad manufacturing to India",
+      "description": "India is having talks with Apple to start manufacturing iPads, according to two sources quoted by CNBC. Cupertino is in discussions with government officials on whether the plant near Chennai, Tamil Nadu, can take up the production of tablets, but no concrete…",
+      "url": "https://www.gsmarena.com/apple_considers_shift_of_ipad_manufacturing_to_india-news-56768.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/10/ipados-16-release-date/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-12-06T08:40:02Z",
+      "content": "India is having talks with Apple to start manufacturing iPads, according to two sources quoted by CNBC. Cupertino is in discussions with government officials on whether the plant near Chennai, Tamil … [+914 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Vlad",
+      "title": "Realme GT Neo 5 rumored to come with 240W wired charging",
+      "description": "The wireless charging war has basically been stopped in its tracks by the Chinese regulations mandating a 50W maximum, but there's no such limit for wired charging, and so Chinese smartphone makers keep amping up (excuse the easy pun) their systems every year…",
+      "url": "https://www.gsmarena.com/realme_gt_neo_5_rumored_to_come_with_240w_wired_charging-news-56765.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/12/realme-gt-neo-5-240w-charging/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-12-06T01:59:01Z",
+      "content": "The wireless charging war has basically been stopped in its tracks by the Chinese regulations mandating a 50W maximum, but there's no such limit for wired charging, and so Chinese smartphone makers k… [+1866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Enrique",
+      "title": "Carl Pei confirms Nothing is in talks with US carriers, “Phone (2) isn’t launching anytime soon\"",
+      "description": "The Nothing Phone (1) is a mid-range smartphone from a company founded by Carl Pei, one of the co-founders of OnePlus. When it launched, the Nothing Phone (1) would not be made available in the US just due to how difficult it is for emerging smartphone brands…",
+      "url": "https://www.gsmarena.com/carl_pei_confirms_nothing_is_in_talks_with_us_carriers_phone_2_isnt_launching_anytime_soon-news-56767.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/12/carl-pei-confirms-nothing-talks-with-us-carriers/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2022-12-06T07:31:01Z",
+      "content": "The Nothing Phone (1) is a mid-range smartphone from a company founded by Carl Pei, one of the co-founders of OnePlus. When it launched, the Nothing Phone (1) would not be made available in the US ju… [+1986 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "What Are Crypto Diehards Rebuilding After FTX's Fall? (Podcast)",
+      "description": "Each weekday, stacy-marie ishmael dives into everything from Bitcoin to Bored Apes, NFT’s to DeFi, Staking to Web3.",
+      "url": "https://www.bloomberg.com/news/audio/2022-12-06/what-are-crypto-diehards-rebuilding-after-ftx-s-fall-podcast",
+      "urlToImage": null,
+      "publishedAt": "2022-12-06T09:24:23Z",
+      "content": "Bloomberg Crypto Podcast Browse all episodesListen to Bloomberg Crypto on the iHeartRadio App, Apple Podcasts or  Spotify.\r\nIts time to rebuild is a catchy phrase often said by crypto industry folks … [+614 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Victoria Vergolina",
+      "title": "What Exactly Are Crypto Diehards (Re)Building? (Podcast)",
+      "description": "While crypto diehards insist this is the perfect time to update and refine systems, it’s difficult to figure out what may be worthy of a re-boot.",
+      "url": "https://www.bloomberg.com/news/articles/2022-12-06/crypto-enthusiasts-say-post-ftx-is-time-for-industry-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iULw_31OJKCc/v1/1200x800.jpg",
+      "publishedAt": "2022-12-06T10:00:18Z",
+      "content": "Listen to Bloomberg Crypto on the iHeartRadio App, Apple Podcasts or  Spotify.\r\nIts time to rebuild is a catchy phrase often uttered by crypto enthusiasts after massive implosions, such as FTXs. In t… [+851 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jillian Deutsch",
+      "title": "Musk's Got Time to Kill Before Europe's Threats Become Problems",
+      "description": "European regulators still believe they can control Elon Musk. But first...",
+      "url": "https://www.bloomberg.com/news/newsletters/2022-12-06/musk-s-got-time-to-kill-before-europe-s-threats-become-problems",
+      "urlToImage": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg",
+      "publishedAt": "2022-12-06T11:45:14Z",
+      "content": "European regulators still believe they can control Elon Musk. But first...\r\nTodays must-reads:\r\n Beijing has begun \r\ncooperating with US efforts to ensure American technology isnt routed to Chinas mi… [+4210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Pierre FONTAINE",
+      "title": "Apple lance son programme Self Service Repair en France, et il n’est toujours pas pour vous…",
+      "description": "Huit mois après avoir lancé son service de réparation par soi-même aux Etats-Unis, Apple le rend disponible aux Européens, et plus spécifiquement aux Français (et Belges, coucou chers voisins !). Si la nouvelle est bonne, le service n’est toujours pas pour to…",
+      "url": "https://www.01net.com/actualites/apple-lance-son-programme-self-service-repair-en-france-et-il-nest-toujours-pas-pour-vous.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2022/12/Apple-Self-Service-repair.jpg",
+      "publishedAt": "2022-12-06T09:00:23Z",
+      "content": "Huit mois après avoir lancé son service de réparation par soi-même aux Etats-Unis, Apple le rend disponible aux Européens, et plus spécifiquement aux Français (et Belges, coucou chers voisins !). Si … [+6986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Justcreative.com"
+      },
+      "author": "Jacob Cass",
+      "title": "10+ Best Laptops for Game Development & Design in 2022",
+      "description": "Choosing the best laptop for game development shouldn't be impossible. Our list of the 10+ Best Laptops for Game Development & Design will get you going today.",
+      "url": "https://justcreative.com/best-laptops-for-game-development/",
+      "urlToImage": "https://justcreative.com/wp-content/uploads/2022/03/How-to-Choose-the-Best-Laptop-for-Game-Design-and-Development-1.png",
+      "publishedAt": "2022-12-06T05:40:45Z",
+      "content": "If youre a video game developer looking for a new laptop, finding the right one can be an arduous task.\r\nYou need a powerful laptop that can match the performance of a desktop computer so you can ren… [+26221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wired.jp"
+      },
+      "author": "Reece Rogers",
+      "title": "iPhoneで撮った写真をWindows PCに取り込むには？ 「Windows 11」とiCloudを連携させる新機能の使い方",
+      "description": "iPhoneで撮った写真をiCloud経由でWindows PCに取り込む機能が、このほど「Windows 11」のアップデートで提供された。その使い方を解説しよう。",
+      "url": "https://wired.jp/article/transfer-iphone-photos-to-pc/",
+      "urlToImage": "https://media.wired.jp/photos/636b1809109aa6834591c443/16:9/w_1280,c_limit/Transfer-iPhone-Photos-to-Windows-PC-Gear-GettyImages-702613207.jpg",
+      "publishedAt": "2022-12-06T03:00:00Z",
+      "content": "iPhoneWindows PCUSBWindows 11Windows PCiCloud\r\niPhoneiPadMacBookiCloudApple IDiCloudApple ID\r\niCloudiPhoneiCloud\r\nApple IDPCMicrosoft StoreiCloud for WindowsApple IDPC\r\niCloud DrivePC\r\niCloud\r\nPCiClo… [+64 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Androidworld.it"
+      },
+      "author": "Emanuele Cisotti",
+      "title": "Dopo 14 anni i widget su Android sono ancora un disastro",
+      "description": "È indubbio che una delle più grandi novità di iOS 14 (parliamo del 2020) fosse stata l'introduzione dei widget sulla...\r\nL'articolo Dopo 14 anni i widget su Android sono ancora un disastro sembra essere il primo su Androidworld.",
+      "url": "https://www.androidworld.it/editoriale/i-widget-android-sono-un-disastro.html",
+      "urlToImage": "https://www.androidworld.it/images/2022/12/06/screenshot-20221206-103851-one-ui-home_1200x675.jpg",
+      "publishedAt": "2022-12-06T09:52:00Z",
+      "content": "È indubbio che una delle più grandi novità di iOS 14 (parliamo del 2020) fosse stata l'introduzione dei widget sulla schermata principale. Ed è anche indubbio che questo abbia creato non poco clamore… [+4862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Demitri Kalogeropoulos)",
+      "title": "2 Dividend-Paying Tech Stocks to Buy in December",
+      "description": "These tech stocks offer a nice balance between growth and income.",
+      "url": "https://www.fool.com/investing/2022/12/06/2-dividend-paying-tech-stocks-to-buy-in-december/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/711235/a-man-talking-to-a-customer.jpg",
+      "publishedAt": "2022-12-06T10:35:00Z",
+      "content": "When searching for great stocks to buy, investors often have to choose between dividend income and stock price appreciation through growth. Ideally, they want to find investments that feature both of… [+3087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Harsh Chauhan)",
+      "title": "Top Warren Buffett Stocks to Buy With $300 Right Now",
+      "description": "Have $300 to spare? Take a look at these Buffett stocks that could be long-term winners.",
+      "url": "https://www.fool.com/investing/2022/12/06/top-warren-buffett-stocks-buy-with-300-right-now/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/711774/man-in-specs-holding-a-phone-and-looking-at-a-chart-on-a-laptop.jpg",
+      "publishedAt": "2022-12-06T10:20:00Z",
+      "content": "Warren Buffett is one of the most successful investors on Wall Street. The Berkshire Hathaway CEO's strategy of having his company buy and hold stock in solid companies for a long time has reaped ric… [+6062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Nicholas Rossolillo)",
+      "title": "Air Products Stock Could Be a Hidden Gem Among All the Chip Manufacturing Hype",
+      "description": "Warren Buffett's bet on Taiwan Semiconductor Manufacturing is getting all the attention, but should it?",
+      "url": "https://www.fool.com/investing/2022/12/06/air-products-stock-could-be-a-hidden-gem-amongst-a/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/711777/manufacturing-tech.jpg",
+      "publishedAt": "2022-12-06T10:40:00Z",
+      "content": "Warren Buffett captured headlines when it was revealed that Berkshire Hathaway (BRK.A -1.82%) (BRK.B -1.76%) made a multi-billion dollar investment in top chip foundry company Taiwan Semiconductor Ma… [+5708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Lawrence Nga)",
+      "title": "Why I'm Getting More Bullish on Pinduoduo Stock",
+      "description": "Pinduoduo bucked the trend and delivered some outstanding performances in 2022.",
+      "url": "https://www.fool.com/investing/2022/12/06/why-im-getting-more-bullish-on-pinduoduo-stock/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/711767/credit-score-shopping-getty.jpg",
+      "publishedAt": "2022-12-06T10:25:00Z",
+      "content": "Pinduoduo (PDD 1.69%) was just a 6-year-old e-commerce company when I first bought stock back in 2021 in this commerce site that leverages social interactions as part of its sales pitch. Despite its … [+5580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Trevor Jennewine)",
+      "title": "2 Rare Buying Opportunities for Growth Stock Investors in a Nasdaq Bear Market",
+      "description": "These growth stocks are down more than 60% from their highs, and both are now trading at attractive valuations.",
+      "url": "https://www.fool.com/investing/2022/12/06/2-rare-buying-opportunities-in-nasdaq-bear-market/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/711775/investor-24.jpg",
+      "publishedAt": "2022-12-06T10:14:00Z",
+      "content": "Economic uncertainty hit the stock market like a wrecking ball this year. The Nasdaq Composite is currently 29% off its high, putting the tech-heavy index deep in bear market territory. During that d… [+4692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "newsfeedback@fool.com (Timothy Green)",
+      "title": "The Safest Stock to Buy Right Now",
+      "description": "A safe stock can still tumble, but it's unlikely to stick investors with a permanent loss.",
+      "url": "https://www.fool.com/investing/2022/12/06/the-safest-stock-to-buy-right-now/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/711847/low-risk-safe-safer-conservative-caution-cautious.jpg",
+      "publishedAt": "2022-12-06T11:20:00Z",
+      "content": "What's a safe stock? If you have a short-term mindset, there's no such thing. Any stock, no matter the strength of the underlying business or its growth prospects, could tumble in price at any time. … [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Alfalfalfa.com"
+      },
+      "author": null,
+      "title": "【悲報】日本人「ドル円下がってる…」 Apple「iPhone値上げするやで」→ドル円上がった結果",
+      "description": "1：格安賞与™2022/12/03(土) 07:03:42ID:petun01a\n日本人「ドル円下がってる…」Apple「iPhone値上げするやで」日本人「ふぇぇ…」日本人「ドル円上がったな。」Apple「……」日本人「ねぇ、ドル円上がったね」Apple「……」日本人「おい」— 格安賞与™ (@petun01a) 2022年12月03日\n\n\ndocument.write(''",
+      "url": "http://alfalfalfa.com/articles/332520.html",
+      "urlToImage": "https://articleimage.nicoblomaga.jp/image/279/2022/8/3/83d7ddc1f58deac3618645d157df19054cfe9f431670166465.jpg",
+      "publishedAt": "2022-12-06T05:20:00Z",
+      "content": "@petun01a apple https://t.co/wqJUrPE4Jr\r\n eguoFx (@eguo2017) 20221203"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Creative Bloq"
+      },
+      "author": "abi.leguilcher@futurenet.com (Abi Le Guilcher)",
+      "title": "The best Galaxy Watch 5 price in December 2022 DRAFT",
+      "description": "Check out the best Samsung Galaxy Watch 5 prices and deals we can find.",
+      "url": "https://www.creativebloq.com/deals/best-galaxy-watch-5-price",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jB7dKSdhrGh6WTgjDkXhcU-1200-80.jpg",
+      "publishedAt": "2022-12-06T07:00:31Z",
+      "content": "Welcome to our guide to the best Galaxy Watch 5 price. In the ever-growing world of technology, smart watches are becoming a more sought-after product that many people use in their day to day life. B… [+3860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "The jazzy 'Charlie Brown Christmas' soundtrack swings on after 57 years",
+      "description": "\"A Charlie Brown Christmas\" became an indelible holiday tradition and so, too, has jazz musician Vince Guaraldi's composition, \"Christmas Time is Here\" for the animated TV special.",
+      "url": "https://www.npr.org/2022/12/06/1140893271/the-jazzy-charlie-brown-christmas-soundtrack-swings-on-after-57-years",
+      "urlToImage": "https://media.npr.org/assets/img/2022/12/06/ap22335604167148_wide-cab79d531dc8c5894c557d136d4711663fa7b60e-s1400-c100.jpg",
+      "publishedAt": "2022-12-06T08:40:03Z",
+      "content": "This image released by Peanuts Worldwide shows promotional art for the 1965 animated TV special \"A Charlie Brown Christmas.\" The soundtrack has sold more than five million copies.\r\nAP\r\nNEW YORK The M… [+7045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clubic"
+      },
+      "author": "/auteur/447348-samir-rahmoune.html",
+      "title": "Pourquoi Apple va rapatrier une partie de sa production en Inde",
+      "description": "Apple veut déménager une partie de sa production effectuée actuellement en Chine vers l'Inde. Aujourd'hui, cette stratégie concerne les iPad.",
+      "url": "https://www.clubic.com/pro/entreprises/apple/actualite-449118-pourquoi-apple-va-rapatrier-une-partie-de-sa-production-en-inde.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2060721/raw",
+      "publishedAt": "2022-12-06T10:40:00Z",
+      "content": "Apple veut déménager une partie de sa production effectuée actuellement en Chine vers l'Inde. Aujourd'hui, cette stratégie concerne les iPad.\r\nEt si la firme à la pomme croquée souhaite diversifier s… [+2378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clubic"
+      },
+      "author": "Thibaut Popelier",
+      "title": "Apple vous permet enfin de réparer votre ordinateur vous-même en France !",
+      "description": "Très attendu par les utilisateurs de produits Apple, le service de réparation DIY (« Do It Yourself » ou « Faites-le vous-même ») de la marque débarque enfin sur le continent européen.",
+      "url": "https://www.clubic.com/pro/entreprises/apple/actualite-449136-apple-vous-permet-enfin-de-reparer-votre-ordinateur-vous-meme-en-france.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2067012/raw",
+      "publishedAt": "2022-12-06T12:00:00Z",
+      "content": "Très attendu par les utilisateurs de produits Apple, le service de réparation DIY (« Do It Yourself » ou « Faites-le vous-même ») de la marque débarque enfin sur le continent européen.\r\nDès aujourd'h… [+2088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextpit.de"
+      },
+      "author": "Jade Bryan",
+      "title": "Nothing Phone (2): Angriff auf das Apple iPhone?",
+      "description": "Carl Pei gibt in in einem Interview bekannt, dass er plant mit dem Nothing Phone (2) auch in den USA zu starten und dem Apple iPhone Konkurrenz macht.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+      "url": "https://www.nextpit.de/nothing-phone-2-angriff-auf-das-apple-iphone",
+      "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Nothing_Phone_1/NextPit_Nothing_Phone_1_Review_Test.jpg",
+      "publishedAt": "2022-12-06T11:00:00Z",
+      "content": "Der Hauptgrund, warum das in London ansässige Unternehmen das erste Nothing Phone nicht in den USA veröffentlichte, war der Mangel an technischer Unterstützung für die Netzbetreiber. Das verriet Noth… [+2343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextpit.de"
+      },
+      "author": "Dustin Porth",
+      "title": "Saturn Mega-Deal: iRobot Roomba i5+ mit Clean Base 200 Euro günstiger!",
+      "description": "Bei Saturn und Media Markt könnt Ihr Euch aktuell den iRobot Roomba i5+ mit Clean Base für 399 Euro sichern. Alle Infos gibt's im Deal-Check!(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+      "url": "https://www.nextpit.de/saturn-mega-deal-irobot-roomba-i5-plus-200-euro-guenstiger",
+      "urlToImage": "https://fscl01.fonpit.de/userfiles/7730515/image/iRobot_Roomba_i5_Plus_media_markt_deal.jpg",
+      "publishedAt": "2022-12-06T12:00:01Z",
+      "content": "Saugroboter zählen im Smart Home mittlerweile fast zur Grundausstattung, Habt Ihr also mit dem Gedanken gespielt Euch einen smarten Sauger ins Heim zu holen, könntet Ihr jetzt sogar richtig Glück hab… [+1837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomshw.it"
+      },
+      "author": "Luca Zaninello",
+      "title": "La nuova funzionalità di WhatsApp è tra le più richieste di sempre",
+      "description": "La novità in arrivo nelle future versioni di WhatsApp riguarda un nuovo modo di effettuare la ricerca tra i propri messaggi.",
+      "url": "https://www.tomshw.it/smartphone/la-nuova-funzionalita-di-whatsapp-e-tra-le-piu-richieste-di-sempre/",
+      "urlToImage": "https://www.tomshw.it/images/images/2021/08/whatsapp-foto-visualizza-una-volta-178428.jpg",
+      "publishedAt": "2022-12-06T10:00:08Z",
+      "content": "Apple La nuova funzionalità di WhatsApp è tra le più richieste di sempre\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scop… [+2049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tomshw.it"
+      },
+      "author": "Valerio Porcu",
+      "title": "Recensione Kindle Scribe",
+      "description": "Questo spettacolare monitor LG da 38\" è in sconto di 700 euro su Amazon e vi farà risparmiare anche su&hellip;",
+      "url": "https://www.tomshw.it/altro/recensione-kindle-scribe/",
+      "urlToImage": "https://www.tomshw.it/images/images/2022/12/kindle-scribe-259028.jpg",
+      "publishedAt": "2022-12-06T11:46:22Z",
+      "content": "Elettrodomestici Recensione Kindle Scribe\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scopri di più\r\nElettrodomestici Rec… [+9519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Appbank.net"
+      },
+      "author": "テクノロジー記事班",
+      "title": "「査定額5000万円超」の激レアApple製品→買ってた人がうらやましすぎる……",
+      "description": "オークションサイト「RR Auction」に、Appleを記念する複数の商品が新たに出品されました。このオークションには、スティーブ・ジョブズが直筆で番号を入れたApple-Iも登場しています。 *Category:テク […]",
+      "url": "https://www.appbank.net/2022/12/06/technology/2348340.php",
+      "urlToImage": "https://www.appbank.net/wp-content/uploads/2022/12/2022-1206-Apple-I-thumb-1.jpeg",
+      "publishedAt": "2022-12-06T08:48:27Z",
+      "content": "RR AuctionAppleApple-I\r\n*Category:\r\n Technology *Source9to5Mac ,RR Auction\r\nApple-IApple-I01-00002\r\nApple-IPCApple\r\nAppleApple-IIApple-IAppleApple-IApple-I\r\nApple-I8.5/10\r\nApple-IPSA/DNA\r\nApple-I375,… [+34 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Appbank.net"
+      },
+      "author": "テクノロジー記事班",
+      "title": "打倒テスラの「Apple Car」LiDARセンサー搭載で完全自動運転を実現した仮想CG",
+      "description": "完全自動運転に対応したEV「Apple Car」の仮想CGを、製品デザインを取り扱うメディア「YANKO DESIGN」が公開しています。 *Category:テクノロジー Technology *Source：YANK […]",
+      "url": "https://www.appbank.net/2022/12/06/technology/2348620.php",
+      "urlToImage": "https://www.appbank.net/wp-content/uploads/2022/12/2022-1206-Apple-Car-thumb-1.jpeg",
+      "publishedAt": "2022-12-06T12:18:20Z",
+      "content": "EVApple CarCGYANKO DESIGN\r\n*Category:\r\n Technology *SourceYANKO DESIGN ,MacRumors\r\nApple CarCG\r\nApple Car5LiDAREV\r\nAppleAppleMagic Mouse\r\nAppleMacApple\r\n99,999(1366)Apple\r\nApple CarApple20252028"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Tech Desk",
+      "title": "Nothing CEO Carl Pei says Phone (2) isn’t launching anytime soon, will focus on Phone (1) instead",
+      "description": "Nothing Phone (2) is not launching anytime soon. However, Nothing Phone (1) will soon get new features along with Android 13 OS update.",
+      "url": "https://indianexpress.com/article/technology/mobile-tabs/nothing-phone-2-not-launching-soon-8308867/",
+      "urlToImage": "https://images.indianexpress.com/2022/12/nothing-phone-1.jpg",
+      "publishedAt": "2022-12-06T08:20:24Z",
+      "content": "Nothing recently shared a major milestone, where, it has managed to sell 10,00,000 or 1 million units of Nothing products which includes the Nothing Ear (1), Nothing Phone (1), and the recently launc… [+1962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ijunkie.com"
+      },
+      "author": "Sriansh",
+      "title": "Apple Considering Shift in iPad Production to India",
+      "description": "Apple is reportedly looking into the possibility of manufacturing some of its iPad models in India as part of its efforts to diversify its production away from China. According to a report from CNBC, Apple has had discussions with Indian officials about the p…",
+      "url": "https://ijunkie.com/apple-considering-shift-in-ipad-production-to-india/",
+      "urlToImage": "https://ijunkie.com/wp-content/uploads/2022/08/10th-generation-iPad.jpg",
+      "publishedAt": "2022-12-06T10:10:46Z",
+      "content": "Apple is reportedly looking into the possibility of manufacturing some of its iPad models in India as part of its efforts to diversify its production away from China. According to a report from CNBC,… [+1360 chars]"
+    },
+    {
+      "source": {
+        "id": "spiegel-online",
+        "name": "Spiegel Online"
+      },
+      "author": "Matthias Kremp",
+      "title": "Apple startet Self-Service-Reparatur in Deutschland",
+      "description": "Besitzer bestimmter Apple-Gadgets können jetzt auch hierzulande selbst schrauben, wenn ihr Gerät kaputt ist. Ob sich das lohnt, ist allerdings eine ganz andere Frage.",
+      "url": "https://www.spiegel.de/netzwelt/gadgets/apple-startet-self-service-reparatur-in-deutschland-a-a7a9b58b-7aa1-4f16-b35a-e6ac0ba4fa23",
+      "urlToImage": "https://cdn.prod.www.spiegel.de/images/d0665142-78e8-4b53-a1b4-a743f69c32e9_w1280_r1.77_fpx33.22_fpy49.85.jpg",
+      "publishedAt": "2022-12-06T09:00:22Z",
+      "content": "Mehr Perspektiven, mehr verstehen.\r\nFreier Zugang zu allen Artikeln, Videos, Audioinhalten und Podcasts\r\n<ul><li>\r\nAlle Artikel auf SPIEGEL.de frei zugänglich\r\n</li><li>\r\nDER SPIEGEL als E-Paper und … [+743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techinsider.ru"
+      },
+      "author": "Никита Шевцев",
+      "title": "Самый дорогой телефон Blackberry в мире: вы будете в шоке от его цены",
+      "description": "Blackberry раньше была одной из главных компаний на рынке смартфонов. Теперь она возрождается после нескольких лет в небытии, а мы вспоминаем самые дорогие смартфоны компании.",
+      "url": "https://www.techinsider.ru/gadgets/1569253-samyy-dorogoy-telefon-blackberry-v-mire-vy-budete-v-shoke-ot-ego-ceny/",
+      "urlToImage": "https://images.techinsider.ru/upload/img_cache/6fe/6fe3b78b0ff14fa327ba0bbca095201e_ce_594x395x0x5_cropped_594x311.jpg",
+      "publishedAt": "2022-12-06T10:07:00Z",
+      "content": "Research in Motion Limited    1984 , BlackBerry Limited        .  -  , ,     - Android  Google  iPhone  Apple. \r\n  BlackBerry     ,  ,   BlackBerry. , , ,   . .\r\nAmosu BlackBerry Pearl Limited Diamon… [+349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "Antonia Beckermann",
+      "title": "Hier liegt ein Schlüssel für die Lösung der Migrationskrise",
+      "description": "Illegale Migration, ausländische Einflussnahme und die Nähe zu Russland: Diese heiklen Punkte stehen beim EU-Westbalkangipfel auf der Agenda. Scholz hat den Umgang mit der Krisenregion zur Chefsache gemacht. Doch es gibt mächtige Gegenspieler.",
+      "url": "https://www.welt.de/podcasts/kick-off/article242485453/Westbalkan-hier-liegt-ein-Schluessel-fuer-die-Loesung-der-Migrationskrise-Podcast.html",
+      "urlToImage": "https://img.welt.de/img/podcasts/kick-off/mobile233821954/5881352687-ci16x9-w1200/DWO-Podcast-Teaser-KOBDBPT-Antonia-cw.jpg",
+      "publishedAt": "2022-12-06T04:20:09Z",
+      "content": "Abonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts, Amazon Music oder direkt per RSS-Feed.\r\nUkraine-Krieg, Ampelregierung und Corona jeden Morgen gibt es neue Schlagzeilen. Im tägli… [+773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "WELT",
+      "title": "RKI-Chef Wieler wirbt weiter für Isolation und Masken",
+      "description": "Es werde im Winter „keine reine Corona-Welle geben“, sondern es sei zu erwarten, „dass eine Reihe von Atemwegsinfektionen parallel um sich greifen.“ Lothar Wieler, Chef des Robert Koch-Instituts, wirbt weiter für eine Isolation von Corona-Infizierten und für …",
+      "url": "https://www.welt.de/wissenschaft/article242510891/Coronavirus-RKI-Chef-Wieler-wirbt-weiter-fuer-Isolation-und-Masken.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile242510899/5191352917-ci16x9-w1200/Coronavirus-Bundesgesundheitsminister.jpg",
+      "publishedAt": "2022-12-06T02:57:24Z",
+      "content": "Der Präsident des Robert Koch-Instituts (RKI), Lothar Wieler, wirbt angesichts der unterschiedlichen Regelungen in den Bundesländern weiter für eine Isolation von Corona-Infizierten und für das Trage… [+2120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "WELT",
+      "title": "Jeder Zehnte hat bis Ende November nicht geheizt",
+      "description": "Wer dieser Tage eine warme Wohnung haben will, muss dafür oft sehr viel mehr zahlen als vergangenes Jahr. Zwar haben viele schon die Heizung angemacht – aber ihr Heizverhalten an die Energiekrise angepasst.",
+      "url": "https://www.welt.de/finanzen/verbraucher/article242511441/Umfrage-Jeder-zehnte-Deutsche-hat-bis-Ende-November-nicht-geheizt.html",
+      "urlToImage": "https://img.welt.de/img/wirtschaft/mobile242511583/0871359667-ci16x9-w1200/Heizung.jpg",
+      "publishedAt": "2022-12-06T07:55:00Z",
+      "content": "Jeder zehnte Bundesbürger hat trotz teilweise winterlicher Temperaturen im Spätherbst noch nicht geheizt. Das ergab eine repräsentative Umfrage des Meinungsforschungsinstituts YouGov im Auftrag der D… [+2351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "WELT",
+      "title": "Bundesverfassungsgericht erlaubt Beteiligung am Corona-Aufbaufonds der EU",
+      "description": "Mit mehreren Hundert Milliarden Euro aus gemeinsamen Schulden will die EU nach der Pandemie durchstarten. Kritiker haben in Deutschland das Bundesverfassungsgericht eingeschaltet. Die Richterinnen und Richter sind nun zu einem Urteil gekommen.",
+      "url": "https://www.welt.de/politik/deutschland/article242514205/Bundesverfassungsgericht-erlaubt-Beteiligung-am-Corona-Aufbaufonds-der-EU.html",
+      "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile242514701/0421354187-ci16x9-w1200/Aussenaufnahme-Bundesverfassungsgericht.jpg",
+      "publishedAt": "2022-12-06T09:09:25Z",
+      "content": "Deutschland darf sich nach einem Urteil des Bundesverfassungsgerichts am milliardenschweren Corona-Aufbaufonds der EU beteiligen. Der Zweite Senat des höchsten deutschen Gerichts wies am Dienstag in … [+2439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "WELT",
+      "title": "EU verbietet Warenimport bei Abholzung von Wäldern",
+      "description": "Waren, für die Regenwald abgeholzt werden musste, sollen zukünftig von der Einfuhr in die EU ausgeschlossen sein. Betroffen sind etwa Holzkohle, Rindfleisch oder Soja. Die Regelung muss noch vom Parlament und den EU-Mitgliedstaaten abgesegnet werden.",
+      "url": "https://www.welt.de/politik/ausland/article242513415/Schutz-des-Regenwaldes-EU-verbietet-Warenimport-bei-Abholzung-von-Waeldern.html",
+      "urlToImage": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/mobile242103519/6101351757-ci16x9-w1200/Amazonas-Regenwald.jpg",
+      "publishedAt": "2022-12-06T09:15:16Z",
+      "content": "Unterhändler von Europaparlament und EU-Staaten haben sich auf ein Gesetz zum Schutz des Amazonas und anderer Wälder geeinigt. Künftig soll der Import zahlreicher Produkte in die EU verboten werden, … [+2215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "WELT",
+      "title": "Bayern schafft Maskenpflicht im ÖPNV ab",
+      "description": "Lange wurde hinter den Kulissen in der bayerischen Staatsregierung über die Notwendigkeit der Maskenpflicht im ÖPNV diskutiert. Nun steht die Entscheidung: Ab dem 10. Dezember gilt die Eigenverantwortung.",
+      "url": "https://www.welt.de/regionales/bayern/article242515057/Bayern-schafft-Maskenpflicht-im-OEPNV.html",
+      "urlToImage": "https://img.welt.de/img/regionales/bayern/mobile242515065/4331351827-ci16x9-w1200/Bayern-schafft-Maskenpflicht-im-OEPNV-nach-9-Dezember-ab.jpg",
+      "publishedAt": "2022-12-06T10:06:10Z",
+      "content": "In Bayern wird zum 10. Dezember die Maskenpflicht im Öffentlichen Personennahverkehr abgeschafft. Dies sei aufgrund der aktuellen stabilen Infektionslage nicht mehr angemessen, hieß es am Dienstag na… [+2288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DIE WELT"
+      },
+      "author": "Nikolaus Doll",
+      "title": "Die „deutsche Krankheit“ stürzt das Land in organisierte Verantwortungslosigkeit",
+      "description": "Deutschland hat ein Jahrzehnt Mega-Wirtschaftswachstum hinter sich – nur, was ist davon eigentlich geblieben? Sparen an den falschen Stellen und ein Wirrwarr aus Zuständigkeiten und Strukturlosigkeit schwächen die Republik. Wir steuern auf Morbus Germanicus i…",
+      "url": "https://www.welt.de/politik/deutschland/article242517511/Behoerden-in-der-Krise-Das-Land-stuerzt-in-Verantwortungslosigkeit.html",
+      "urlToImage": "https://img.welt.de/img/politik/deutschland/mobile238708473/4871354977-ci16x9-w1200/Autorenfoto-NEU-DIE-WELT-Fotoshooting-2-2.jpg",
+      "publishedAt": "2022-12-06T12:50:29Z",
+      "content": "Quer durchs Land heulen an diesem Donnerstag die Sirenen, ploppen Alarmmeldungen auf den Handys auf es ist bundesweiter Warntag. Im Bundesamt für Bevölkerungsschutz und Katastrophenhilfe ist man hoch… [+2954 chars]"
+    }
+  ]
+}
